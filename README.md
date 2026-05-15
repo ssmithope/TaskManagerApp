@@ -16,11 +16,11 @@ This project is my Module #1 submission for CSE 310. I selected the **C# Program
 
 ## How to Run the Program
 1. Clone this repository:
-https://github.com/YOUR-USERNAME/YOUR-REPO.git (github.com in Bing)
+https://github.com/ssmithope/TaskManagerApp
 2. Open the project in **Visual Studio** or **VS Code with the C# extension**.
 3. Build and run the program:
 
-## 🎥 Demo Video
+## Demo Video
 A full demo and code walkthrough video is available here:  
  **[YOUR VIDEO LINK]**
 
